@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.swp
+*.swo
+.env
+.venv
+.ipynb_checkpoints/
+.envrc
+.DS_Store
+.outputs/
+outputs/
